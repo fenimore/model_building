@@ -1,0 +1,5 @@
+# pyspark in PATH
+jupyter
+
+matplotlib
+graphviz
